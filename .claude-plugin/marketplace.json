@@ -1,0 +1,8 @@
+{
+  "name": "thang-marketing-os",
+  "owner": { "name": "Thang AI Maker", "email": "truongcanhthang@gmail.com" },
+  "metadata": { "description": "Marketplace chứa plugin Marketing Growth OS." },
+  "plugins": [
+    { "name": "marketing-growth-os", "source": "./plugins/marketing-growth-os", "description": "21 skill dựng trọn bộ hồ sơ marketing (nền móng → vận hành), không bịa số, kết bằng quyết định." }
+  ]
+}
